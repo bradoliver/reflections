@@ -1,0 +1,2 @@
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area allows you to gather files from a working directory in prepartion for creating a committ.  It may or may not contain all the files from a working directory.  It provides you with a temporary collection of files which can be modified, in advance of committing them.  This allows you to create commits of files with similar functions. 
