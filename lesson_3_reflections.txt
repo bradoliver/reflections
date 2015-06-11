@@ -20,3 +20,7 @@ A: You can use git diff on the local files to determine what has changed and the
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: You could access the same files on a file server, a service like dropbox, or email files back and forth.  This would be much more difficult than using git or git hub as it would rely on each person to keep track of their changes and communicate them to the team.  In addition, all changes would need to be merged manually while Git or GitHub can do this all this for you.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When you want to experiment with new features or perhaps you wish to change something and you are not sure if you will want to keep the changes.  The benefit of making changes in a seperate branch is that you can maintain (and publish) a working version of your code while you work on another branch.
+
