@@ -18,3 +18,5 @@ Branches - Branches are divisions of code within a specific repo.
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: You can use git diff on the local files to determine what has changed and then merge the branches.  In addition you can work offline.
 
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: You could access the same files on a file server, a service like dropbox, or email files back and forth.  This would be much more difficult than using git or git hub as it would rely on each person to keep track of their changes and communicate them to the team.  In addition, all changes would need to be merged manually while Git or GitHub can do this all this for you.
