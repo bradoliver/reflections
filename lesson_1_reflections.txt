@@ -1,3 +1,9 @@
+****************************
+* lesson_1_reflections.txt 
+* Brad Oliver
+* brad@bradoliver.com
+****************************
+
 Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
 A: It identified the lines in each file which were different when compared to each other.
 
