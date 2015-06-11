@@ -14,3 +14,7 @@ Q: Describe the differences between forks, clones, and branches. When would you 
 A: Forks - Allow you to create a copy of a repo while still identifying the source.   Once code is forked, you cannot push changes back to the orininating repo.
 Clones - Clones allow you to copy a repository from GitHub to your local git files, or they allow you to clone (make a copy) of a repo in your git account. 
 Branches - Branches are divisions of code within a specific repo.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: You can use git diff on the local files to determine what has changed and then merge the branches.  In addition you can work offline.
+
