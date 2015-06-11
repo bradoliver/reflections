@@ -1,0 +1,8 @@
+****************************
+* lesson_2_reflections.txt 
+* Brad Oliver
+* brad@bradoliver.com
+****************************
+
+Q: Whenn would you want to create a remote repository rather than keeping all your work local?
+A: 
