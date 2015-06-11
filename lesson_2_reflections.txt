@@ -1,2 +1,20 @@
+****************************
+* lesson_2_reflections.txt 
+* Brad Oliver
+* brad@bradoliver.com
+****************************
+
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area allows you to gather files from a working directory in prepartion for creating a committ.  It may or may not contain all the files from a working directory.  It provides you with a temporary collection of files which can be modified, in advance of committing them.  This allows you to create commits of files with similar functions. 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can compare the working directory to the staging area by running git diff without arguments.  If needed you can remove files from the staging area to ensure that you are committing only one logical change.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: They help visualize the branches and the commits in each.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The changes in both branches are now merged into one (master).  Because the code from two branches are merging into one.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Automatic speeds up the process significantly, while manual provides you with a higher degree of control over which file changes are merged. 
