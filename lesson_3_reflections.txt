@@ -1,5 +1,5 @@
 ****************************
-* lesson_2_reflections.txt 
+* lesson_3_reflections.txt 
 * Brad Oliver
 * brad@bradoliver.com
 ****************************
